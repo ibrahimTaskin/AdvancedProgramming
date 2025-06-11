@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedProgramming", "AdvancedProgramming\AdvancedProgramming.csproj", "{61B0AAA3-43A9-49AE-AFA4-C39C3259A3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{2DE0F180-021A-49E1-A670-A91CD5B583C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B0AAA3-43A9-49AE-AFA4-C39C3259A3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B0AAA3-43A9-49AE-AFA4-C39C3259A3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B0AAA3-43A9-49AE-AFA4-C39C3259A3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B0AAA3-43A9-49AE-AFA4-C39C3259A3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE0F180-021A-49E1-A670-A91CD5B583C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE0F180-021A-49E1-A670-A91CD5B583C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE0F180-021A-49E1-A670-A91CD5B583C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE0F180-021A-49E1-A670-A91CD5B583C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C316464-1B0F-4F45-B2F5-E79EC80AE94C}
+	EndGlobalSection
+EndGlobal
